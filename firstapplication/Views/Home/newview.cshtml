@@ -1,0 +1,54 @@
+﻿
+@using firstapplication.Models;
+
+<p>
+
+    @{List<signin> itemlistnew = Session["signin"] as List<signin>;}
+
+    @if (itemlistnew != null && itemlistnew.Any())
+    {
+        <h2> Session data Store </h2>
+
+    }
+
+
+</p>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+    .fa{
+        font-size: 30px;
+          color:green;
+    }
+
+    .fa-facebook{
+        color:green;
+    }
+
+    .fa-twitter{
+        color:green;
+    }
+</style>
+    
+
+
+<div style="display: flex;justify-content: space-around; align-items: center; background-color: white; width: 100px; height: 100px;
+       position: absolute; top: 0px; right: 40px; border-radius: 60px; border-style: solid; border-color: white;">
+    
+
+        <div>
+            <a href="https://api.whatsapp.com/send?phone=923453118914" class="fa fa-whatsapp"></a>
+        </div>
+
+        <div>
+            <a href="https://www.facebook.com/FITComputerinstitute1" class="fa fa-facebook"> </a>
+        </div>
+
+        <div>
+            <a href="https://twitter.com/FIT_INSTITUTE_" class="fa fa-twitter"> </a>
+        </div>
+
+    
+
+</div>
+

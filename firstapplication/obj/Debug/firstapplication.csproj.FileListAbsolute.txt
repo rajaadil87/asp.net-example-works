@@ -1,0 +1,158 @@
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\firstapplication.dll.config
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\firstapplication.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\firstapplication.pdb
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\csc.exe
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\csc.exe.config
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\csc.rsp
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\csi.exe
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\csi.exe.config
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\csi.rsp
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.AppContext.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Console.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Globalization.Calendars.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.IO.Compression.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.IO.FileSystem.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Net.Http.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Net.Sockets.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.ValueTuple.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Xml.XPath.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\vbc.exe
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\vbc.exe.config
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\vbc.rsp
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\VBCSCompiler.exe
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Antlr3.Runtime.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Newtonsoft.Json.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Helpers.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Mvc.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Optimization.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Razor.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.WebPages.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.WebPages.Razor.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\WebGrease.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Helpers.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Mvc.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Optimization.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.Razor.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.WebPages.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\System.Web.WebPages.Razor.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Newtonsoft.Json.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Antlr3.Runtime.pdb
+D:\visual studio 2019 example code\firstapplication\firstapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio 2019 example code\firstapplication\firstapplication\obj\Debug\firstapplication.csproj.AssemblyReference.cache
+D:\visual studio 2019 example code\firstapplication\firstapplication\obj\Debug\firstapplication.csproj.CoreCompileInputs.cache
+D:\visual studio 2019 example code\firstapplication\firstapplication\obj\Debug\firstapplication.csproj.CopyComplete
+D:\visual studio 2019 example code\firstapplication\firstapplication\obj\Debug\firstapplication.dll
+D:\visual studio 2019 example code\firstapplication\firstapplication\obj\Debug\firstapplication.pdb
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\firstapplication.dll.config
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\firstapplication.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\firstapplication.pdb
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\csc.exe
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\csc.exe.config
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\csc.rsp
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\csi.exe
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\csi.exe.config
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\csi.rsp
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.AppContext.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Console.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Net.Http.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\vbc.exe
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\vbc.exe.config
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\vbc.rsp
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Antlr3.Runtime.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Newtonsoft.Json.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Helpers.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Mvc.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Optimization.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Razor.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.WebPages.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\WebGrease.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Helpers.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Mvc.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Optimization.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.Razor.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.WebPages.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Newtonsoft.Json.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Antlr3.Runtime.pdb
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\obj\Debug\firstapplication.csproj.AssemblyReference.cache
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\obj\Debug\firstapplication.csproj.CoreCompileInputs.cache
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\obj\Debug\firstapplication.csproj.CopyComplete
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\obj\Debug\firstapplication.dll
+C:\Users\NEXTSOL_COMPUTER\Desktop\firstapplication\firstapplication\obj\Debug\firstapplication.pdb

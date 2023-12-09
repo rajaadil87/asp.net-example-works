@@ -1,0 +1,142 @@
+﻿
+
+@using firstapplication.Models;
+<p>
+    @*@{
+           if (ViewBag != null)
+           {
+               @ViewBag.Email;<br />
+               @ViewBag.firstname;<br />
+               @ViewBag.lastname;<br />
+               @ViewBag.Pass;<br />
+               @ViewBag.confirmpass<br />
+           }
+        }*@
+
+    @{ List<loginform> itemList = Session["loginform"] as List<loginform>;}
+
+    @if (itemList != null && itemList.Any())
+    {
+        <h2>Stored session data </h2>
+
+        <ul>
+            @foreach (var item in itemList)
+            {
+
+                <li>
+                    @item.Email<br />
+                    @item.firstname<br />
+                    @item.lastname<br />
+                    @item.pass<br />
+                    @item.confirmpass<br />
+                </li>
+            }
+
+        </ul>
+    }
+    else
+    {
+    <p>No data stored in the session </p>
+}
+
+
+    </p>
+
+
+
+
+
+
+
+    <div style="height: 600px; width: 500px; background-color: red; border-radius: 10px; display: flex; flex-direction:column; justify-content: center;
+       align-items: center; align-items: center; border:10px solid; border-color:black;">
+
+
+        <div style="padding-left:20px; border:10px solid; border-radius:10px; border-color:black;">
+            <form method="post">
+                <div style="display:flex; flex-direction:column;">
+                    <label>
+                        Enter Your Email
+                    </label>
+                    <input placeholder="Email" ; name="email" id="email" required style="width:200px; height:40px; border-radius:20px;
+                    border-color:azure; margin-top:20px; margin-top:20px;" />
+                </div>
+
+
+                <div style="display: flex; flex-direction: row; justify-content: space-between; margin-top:20px;">
+                    <div>
+                        <label>
+                            First name
+                        </label>
+                        <input placeholder="First name" ; name="firstname" id="firstname" required style="width:200px; height:40px; border-radius:20px;
+                    border-color:azure;" />
+                    </div>
+
+                    <div>
+                        <label>
+                            Last name
+                        </label>
+                        <input placeholder="Last name" ; name="lastname" id="lastname" required; style="width:200px; height:40px; border-radius:20px;
+                    border-color:azure;" />
+                    </div>
+                </div>
+
+                <div style="display: flex; flex-direction: row; justify-content: space-between; margin-top:20px">
+                    <div>
+                        <label>
+                            Password
+                        </label>
+                        <input placeholder="Password" ; name="pass" id="pass" required style="width:200px; height:40px; border-radius:20px;
+                    border-color:azure;" />
+                    </div>
+
+                    <div>
+                        <label>
+                            Confirm Password
+                        </label>
+                        <input placeholder="Confirm Password" ; name="confirmpass" id="confirmpass" required style="width:200px; height:40px;
+                        border-radius:20px; border-color:azure;" />
+                    </div>
+                </div>
+
+                <div style="margin-top:20px;">
+                    <button style="border-radius:20px; background-color:white;width:80px; height:40px;">
+                        Submit
+                    </button>
+                </div>
+
+
+            </form>
+        </div>
+
+        <div style="display:flex; flex-direction:column; border:10px solid; border-color:black; width:480px; ">
+            <form method="post">
+                <div style="display:flex; flex-direction: column;">
+                    <label>
+                        Enter Your Email
+                    </label>
+                    <input placeholder="Email" ; name="email" id="email" required style="width:200px; height:40px; border-radius:20px;
+                    border-color:azure; margin-bottom:20px; margin-top:20px;" />
+                </div>
+
+                <div style="display:flex; flex-direction: column;">
+                    <label>
+                        Password
+                    </label>
+                    <input placeholder="Password" ; name="pass" id="pass" required style="width:200px; height:40px; border-radius:20px;
+                    border-color:azure;" />
+                </div>
+
+                <div style="margin-top:20px;">
+                    <button style="border-radius:20px; background-color:white;width:80px; height:40px;">
+                        Submit
+                    </button>
+                </div>
+
+            </form>
+
+        </div>
+
+
+    </div>
+
